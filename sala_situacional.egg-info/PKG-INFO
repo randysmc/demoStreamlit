@@ -1,0 +1,5 @@
+Metadata-Version: 2.4
+Name: sala-situacional
+Version: 0.1.0
+Summary: Plataforma de análisis epidemiológico
+Requires-Python: >=3.14

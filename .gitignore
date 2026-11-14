@@ -1,0 +1,24 @@
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+
+# Environment
+.env
+.streamlit/secrets.toml
+
+# Data
+storage/raw/*
+storage/processed/*
+storage/exports/*
+
+# Keep directories
+!.gitkeep
+
+# IDE
+.vscode/
+.idea/
+
+# System
+.DS_Store

@@ -1,0 +1,18 @@
+docker
+usuarios con accesos, y quienes
+red y accesos de seguridad
+como maneja oracle schema/usuario propio para esta app
+pdb para pruebas 
+conexión deapps
+usuarios y permisos
+
+
+
+
+modelo básico de autenticación (usuarios, roles con permisos)
+- qué usuarios: 
+    -permisos de cada página
+
+
+oracle
+
